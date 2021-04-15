@@ -17,3 +17,4 @@ $arr = array(array("Vivek","7894561235","Developer"),array("Arun","5512244635","
 	<?php endforeach;endforeach; ?>
 </table>
 <br>
+<?php echo "\n"; ?>
