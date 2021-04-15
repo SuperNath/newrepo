@@ -16,5 +16,3 @@ $arr = array(array("Vivek","7894561235","Developer"),array("Arun","5512244635","
 	</tr>
 	<?php endforeach;endforeach; ?>
 </table>
-<br>
-<?php echo "\n"; ?>
